@@ -152,7 +152,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background-image: url('img/foodiesfeed.com_grilling-beef-on-charcoal.jpg');
+    background-image: url(/img/foodiesfeed.com_grilling-beef-on-charcoal.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -237,7 +237,7 @@
     position: relative;
     height: 100%;
     min-height: 500px;
-    background-image: url('img/farhad-ibrahimzade-OGsLtKm7DvE-unsplash.jpg');
+    background-image: url(/img/farhad-ibrahimzade-OGsLtKm7DvE-unsplash.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
